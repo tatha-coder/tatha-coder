@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tatha-coder/tatha-coder/main/anondo.gif" width="500">
+</p>
 ## Hi there 👋
 
 <!--
