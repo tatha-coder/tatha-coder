@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tatha-coder/tatha-coder/main/anondo.gif" width="500">
 </p>
-Hi there Tathagata here
+Hi there Tathagata here a CS student currently trying to learn new things
 
 <!--
 **tatha-coder/tatha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
